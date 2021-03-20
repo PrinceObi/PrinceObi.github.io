@@ -1,3 +1,3 @@
 # Hello World
 
-This is my first post.(Desktop Update)
+This is my first post
